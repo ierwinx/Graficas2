@@ -1,10 +1,3 @@
-//
-//  Graficas2App.swift
-//  Graficas2
-//
-//  Created by Erwin Luz León on 07/10/22.
-//
-
 import SwiftUI
 
 @main
